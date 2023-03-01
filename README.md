@@ -6,8 +6,6 @@
   <li>Third item
     <ol>
       <li>Indented item</li>
-      <li>Indented item</li>
-      <li>Indented item</li>
     </ol>
   </li>
   <li>Fourth item</li>
