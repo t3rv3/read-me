@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+  <title>Page Title</title>
+</head>
 <ol>
   <li>peruna</li>
 </ol>
