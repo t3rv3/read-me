@@ -1,4 +1,7 @@
-# read-me
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
 <ol>
   <li>peruna</li>
 </ol>
@@ -13,4 +16,5 @@
 <ul>
   <li>First item</li>
 </ul>
-![random kuva] (![image](https://user-images.githubusercontent.com/113163674/222071228-138b4320-f9c8-488b-b748-dc53e62fee32.png)
+</body>
+</html>
