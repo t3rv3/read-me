@@ -14,6 +14,6 @@
 <ul>
   <li>First item</li>
 </ul>
-![kuva teksti](/vector.jpg)
+![kuva teksti](img/vector.jpg)
 </body>
 </html>
